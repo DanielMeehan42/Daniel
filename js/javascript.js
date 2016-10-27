@@ -3,3 +3,6 @@ $(document).ready(function(){
       $('#h').slideUp(1000);
       });
 });
+h1{ 
+backround-color: Blue;
+}
