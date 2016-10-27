@@ -1,16 +1,12 @@
 body {
-    background-image: url(http://kaba35.com/wp-content/uploads/2015/11/Savin-NY-Website-Background-Web.jpg) 
-}
-@font-face {
-    font-family: "gay font";
-    src: url("../Kenyancoffe.tff") format (truetype)
-    
+    background-image: url(http://kaba35.com/wp-content/uploads/2015/11/Savin-NY-Website-Background-Web.jpg)
   
-	
 
-    
 }
 
 h1 {
     text-align: center;
+}
+{
+    backround-image: url(https://i.ytimg.com/vi/LCs0ZEHyQVg/maxresdefault.jpg)
 }
