@@ -5,6 +5,12 @@ body {
     font-family: "gay font";
     src: url("../Kenyancoffe.tff") format (truetype)
     
+  
+	
+
     
 }
 
+h1 {
+    text-align: center;
+}
