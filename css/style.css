@@ -10,7 +10,13 @@
 }
 
 .heading {
-    text-align: center;
+    text-align:center;
+    font-family: 'Orbitron', sans-serif;
+    color: #1dd9bc;
+    
+}
+h1 {
+    text-align: left;
     font-family: 'Orbitron', sans-serif;
     color: #1dd9bc;
 }
