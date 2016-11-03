@@ -1,11 +1,3 @@
-$(document).ready(function(){
-    $('#h').onclick(function(){
-      $('#h').slideUp(1000);
-      });
-});
-h1{ 
-backround-color: Blue;
-}
 $('.form').find('input, textarea').on('keyup blur focus', function (e) {
   
   var $this = $(this),
