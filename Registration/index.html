@@ -1,3 +1,24 @@
+
+<?php
+
+if(isset($_POST['submit'])
+{
+
+@firstName "$_POST[fname];
+@lastName "$_POST[lname];
+@email "$_POST[email];
+@password "$_POST[password];
+@passwordconfirm "$_POST[passwordconfirm];
+
+@image "$_FILES;["image"]["name]
+@tmp_image="$_FILES;["image"]["tmp_name"]
+@imagesize="$_FILES;["image"]["size"]
+
+echo @firstname. "<br/>".$lastname."<br/>".$email."<br/>"..$password."<br/>".$passwordconfirm"<br/>".$image.<br/>"".$imagesize;
+}
+
+?>
+
 <!DOCTYPE html>
 
 <html>
@@ -23,7 +44,10 @@
         <center><input type="text" name="email"><br/><br/></center>
         <center><label>Password</label><br/></center>
         <center><input type="password" name="password"><br/><br/></center>
-        <center><label>First Name</label><br/></center>
+        <center><label>Confirm Password</label><br/></center>
+        <center><input type="password" name="passwordconfirm"><br/><br/></center>
+        <center><label>Profile Picture</label><br/></center>
+        <center><input type="file" name="image"></center>
         <center><input type="submit" name="submit"><br/><br/></center>
     
         </form>
