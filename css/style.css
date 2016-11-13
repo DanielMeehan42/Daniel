@@ -1,40 +1,35 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body {
-    background-color: #f3f3f3;
+    background-image: url(http://static.tumblr.com/vy2pzfk/46zls6lto/deserve_bg.jpg);
     font-family: 'PT Sans';
 }
 
 #wrapper {
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Awesome-WebSite-Background.jpg);
+    width: 1000px;
     max-width: 960px;
     margin: 0 auto;
-    background-color: #fff;
-    padding: 32px 
+    padding: 32px;
+    min-height: 990px;
+     
 }
 header {
-
-    background-color: aqua;
-    height: 250px;
-    padding: 4px;
+    margin-top: 0px;
+    background-image: url(lmao.png);
+    height: 200px;
+    padding: 100px;
 }
 
-header h1 {
-    text-transform: uppercase;
-    text-align: center;
-    color: #fff;
-    line-height: 50px;
-}
-
-header h2: {
-    font-variant: small-caps;
-    text-align: center;
-    color: #ffffff;
-}
 
 .main_menu {
+    padding-bottom: 50px;
+    height: 33px;
+    font-size: 20px;
+    font-family: sans-serif;
     padding: 5px 0 5px 0;
     text-align: center;
     line-height: 32px;
-    background-color: #818181  
+    background-image: url();
 }
 
 ul.main_menu {
