@@ -5,6 +5,7 @@ body {
 }
 
 #wrapper {
+    margin-top: 30px;
     background-image: url(http://kingofwallpapers.com/green-background-images/green-background-images-011.jpg);
     width: 1000px;
     max-width: 960px;
