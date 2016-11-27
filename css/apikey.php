@@ -1,4 +1,0 @@
-<?php
-$api + "D6D0ECF2FE57AAFDA6A0AC069A95AF8F";
-
->
